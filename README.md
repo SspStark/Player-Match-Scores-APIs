@@ -179,7 +179,7 @@ Returns the statistics of the total score, fours, sixes of a specific player bas
 
 #### Response
 
-```
+``
 {
   playerId: 1,
   playerName: "Ram"
